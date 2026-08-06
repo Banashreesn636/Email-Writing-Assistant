@@ -1,0 +1,14 @@
+body{
+background:#f5f7fa;
+}
+
+.stButton>button{
+background:#4CAF50;
+color:white;
+border-radius:12px;
+font-size:18px;
+}
+
+textarea{
+border-radius:10px;
+}
